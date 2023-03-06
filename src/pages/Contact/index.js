@@ -47,7 +47,7 @@ function Contact() {
 
       <div className='contact-buttons'>
       <a href="https://github.com/Marzena-W"> <button className='buttons' type="button"> GitHub</button></a>
-      <a href="https://www.linkedin.com/in/thisismylinkedin/"><button className='buttons' type="button">LinkedIn</button></a>
+      <a href="https://www.linkedin.com/in/maggie-wilk/"><button className='buttons' type="button">LinkedIn</button></a>
       <a href="mailTo:marzena.m.wilk@gmail.com"><button className='buttons' type="button">Email</button></a>
       <a href= {CV} target = "_blank"><button className='buttons' type="button">CV</button></a>
       </div>
