@@ -5,6 +5,8 @@
 # Description
 > As part of my web development portfolio, I created a custom-built portfolio site using the  front-end JavaScript library, React. The site was built from scratch, with a focus on modular code that is easy to understand, modify, and extend.
 
+Deployed app: https://marzena-w.github.io/portfolio-react-M/
+
 Key features of my portfolio site include:
 1. Responsive design.
 2. Clean UI - with a focus on typography, whitespace, and intuitive navigation.
