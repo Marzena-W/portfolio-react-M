@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.49aa2f5c.css",
+    "main.js": "/react-gh-pages/static/js/main.7e4c35ff.js",
+    "static/media/portfolio.jpg": "/react-gh-pages/static/media/portfolio.0808dca84aabcc45d021.jpg",
+    "static/media/weatherdashboard.jpg": "/react-gh-pages/static/media/weatherdashboard.332a3a111e146e6735c4.jpg",
+    "static/media/parktime.jpg": "/react-gh-pages/static/media/parktime.11c7ad727b8345ee20f7.jpg",
+    "static/media/portfolio2.jpg": "/react-gh-pages/static/media/portfolio2.036da8f1207c95a920c6.jpg",
+    "static/media/password.jpg": "/react-gh-pages/static/media/password.87403a9ef269534be75e.jpg",
+    "static/media/CV_Maggie_Wilk.pdf": "/react-gh-pages/static/media/CV_Maggie_Wilk.2f6fd12ccc6e5b02c5a9.pdf",
+    "static/media/planner.jpg": "/react-gh-pages/static/media/planner.338a643f4d70d0765ef7.jpg",
+    "static/media/avatar.png": "/react-gh-pages/static/media/avatar.b98553ad91114b6dfb92.png",
+    "static/media/logo-black.svg": "/react-gh-pages/static/media/logo-black.741739ca593d2eb077ff.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.49aa2f5c.css.map": "/react-gh-pages/static/css/main.49aa2f5c.css.map",
+    "main.7e4c35ff.js.map": "/react-gh-pages/static/js/main.7e4c35ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49aa2f5c.css",
+    "static/js/main.7e4c35ff.js"
+  ]
+}
