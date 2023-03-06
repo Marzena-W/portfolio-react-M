@@ -1,0 +1,19 @@
+.nav-style {
+    background-color: black !important;
+}
+
+.logo {
+    color: white !important;
+}
+
+/* .logo:hover {
+    color: white;
+}
+
+.logo:focus {
+    color: white;
+} */
+
+.nav-link {
+    color: white !important;
+}
