@@ -18,5 +18,5 @@ To install the app, do the following:
 4. Customize the app (optional) - If you want to customize the app, you can modify the code by opening the project in a code editor like Visual Studio Code.
 
 ## Mockup
-![Screenshot 1](./public/mockup-1.jpg)
-![Screenshot 2](./public/mockup-2.jpg)
+![Screenshot 1](/mockup-1.jpg)
+![Screenshot 2](mockup-2.jpg)
