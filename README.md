@@ -13,5 +13,5 @@ Key features of my portfolio site include:
 Link to Deployd application: https://marzena-w.github.io/portfolio-react-M/
 
 ## Mockup
-![Screenshot 1](../portfolio-react/public/mockup-1.jpg)
-![Screenshot 2](../portfolio-react/public/mockup-2.jpg)
+![Screenshot 1](../images/mockup-1.jpg)
+![Screenshot 2](./images/mockup-2.jpg)
